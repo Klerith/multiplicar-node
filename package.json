@@ -1,0 +1,16 @@
+{
+  "name": "03-bases-node",
+  "version": "2.0.0",
+  "description": "Esta es una aplicación de línea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Herrera",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {}
+}
